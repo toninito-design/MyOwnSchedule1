@@ -1,1 +1,1 @@
-# MyOwnSchedule1
+V5: panel de tareas delegadas con filtros por responsable y estado; selector de 12 meses restaurado en Planificador anual; rutinas del mes en filas compactas. Conserva la clave de almacenamiento y admite copias JSON anteriores. Publicar index.html en GitHub Pages.
